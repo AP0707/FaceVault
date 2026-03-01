@@ -1,0 +1,7 @@
+insightface
+onnxruntime
+chromadb
+opencv-python
+numpy
+Pillow
+tqdm
